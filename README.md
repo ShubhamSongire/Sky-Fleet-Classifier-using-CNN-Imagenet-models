@@ -11,14 +11,48 @@ Output of program <br><br>
 ![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png) <br>
 Getting Started 
 1. Clone the repository <br>
-git clone https://github.com/ShubhamSongire/Drone-Image-Classification-using-CNN-Imagenet-models-
 ``` shell
 git clone https://github.com/ShubhamSongire/Drone-Image-Classification-using-CNN-Imagenet-models-
 ```
 
 2. Install the required dependencies
+``` shell
 pip install -r requirements.txt
+```
 
 3. Run the Resnet.ipynb file to train the model
 
 4. Run the prediction.ipynb file to predict images using the trained model
+
+File Structure
+.
+├── Resnet.ipynb
+├── prediction.ipynb
+├── requirements.txt
+└── dataset/
+    ├── train/
+    │   ├── category1/
+    │   ├── category2/
+    │   ├── category3/
+    │   ├── category4/
+    │   └── category5/
+    ├── validation/
+    │   ├── category1/
+    │   ├── category2/
+    │   ├── category3/
+    │   ├── category4/
+    │   └── category5/
+    
+Built With
+Keras - The deep learning framework used
+Imagenet - Pre-trained models used
+
+Authors
+[Your Name] - Your Github Profile
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Acknowledgments
+Imagenet for providing the pre-trained models used in this project
+Dataset for providing the dataset used in this project
