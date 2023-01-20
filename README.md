@@ -6,9 +6,9 @@ Sample images of this dataset <br><br>
         <img src="https://user-images.githubusercontent.com/68246393/157185204-87534206-1da4-4a67-bb45-5a9e74c9c2d5.png" width="59%"/>
     </a>
 </div> <br>
-The dataset contains 5 different categories of images, and the model has been finetuned to fit these categories using the ResNet152V2 model. The model achieved a training accuracy of 96.96% and a validation accuracy of 87.86%.
+<p>The dataset contains 5 different categories of images, and the model has been finetuned to fit these categories using the ResNet152V2 model. The model achieved a training accuracy of 96.96% and a validation accuracy of 87.86%. </p>
 
-In the Resnet.ipynb file, you will find the complete training code for the model. Once the model has been trained, you can use the prediction.ipynb file to predict images using the saved pretrained model. The output of the program will be the predicted category for each image.
+</p>In the Resnet.ipynb file, you will find the complete training code for the model. Once the model has been trained, you can use the prediction.ipynb file to predict images using the saved pretrained model. The output of the program will be the predicted category for each image.</p>
 
 Please note that the dataset used in this project is provided for demonstration purposes only and is not intended for commercial use.<br>
 Output of program <br><br>
