@@ -9,7 +9,9 @@ In the Resnet.ipynb file, you will find the complete training code for the model
 Please note that the dataset used in this project is provided for demonstration purposes only and is not intended for commercial use.<br>
 Output of program <br><br>
 ![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png) <br>
-Getting Started 
+
+## Getting Started 
+
 1. Clone the repository <br>
 ``` shell
 git clone https://github.com/ShubhamSongire/Drone-Image-Classification-using-CNN-Imagenet-models-
@@ -24,7 +26,7 @@ pip install -r requirements.txt
 
 4. Run the prediction.ipynb file to predict images using the trained model
 
-File Structure <br>
+## File Structure
 ├── Resnet.ipynb  <br>
 ├── prediction.ipynb <br>
 ├── requirements.txt <br>
@@ -42,12 +44,12 @@ File Structure <br>
     │   ├── category4/<br>
     │   └── category5/<br>
     
-Built With
+## Built With
 Keras - The deep learning framework used <br>
 Imagenet - Pre-trained models used <br>
 
-Authors - [ShubhamSongire](https://github.com/ShubhamSongire) <br>
+## Authors - [ShubhamSongire](https://github.com/ShubhamSongire) <br>
 
-Acknowledgments
+## Acknowledgments
 Imagenet for providing the pre-trained models used in this project<br>
 Dataset for providing the dataset used in this project
