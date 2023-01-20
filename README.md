@@ -28,21 +28,22 @@ pip install -r requirements.txt
 
 ## File Structure
 ├── Resnet.ipynb  <br>
+├── Inception V2.ipynb<br>
 ├── prediction.ipynb <br>
 ├── requirements.txt <br>
 └── dataset/ <br>
     ├── train/ <br>
-    │   ├── category1/ <br>
-    │   ├── category2/<br>
-    │   ├── category3/<br>
-    │   ├── category4/<br>
-    │   └── category5/<br>
-    ├── validation/<br>
-    │   ├── category1/<br>
-    │   ├── category2/<br>
-    │   ├── category3/<br>
-    │   ├── category4/<br>
-    │   └── category5/<br>
+    │   ├── rocket / <br>
+    │   ├── fighter_jet /<br>
+    │   ├── helicopter /<br>
+    │   ├── passenger_plane /<br>
+    │   └── drone /<br>
+    ├── val/<br>
+    │   ├── rocket / <br>
+    │   ├── fighter_jet /<br>
+    │   ├── helicopter /<br>
+    │   ├── passenger_plane /<br>
+    │   └── drone /<br>
     
 ## Built With
 Keras - The deep learning framework used <br>
