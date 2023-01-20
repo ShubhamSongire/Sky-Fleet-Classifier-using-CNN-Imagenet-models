@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 File Structure
 .
-├── Resnet.ipynb
-├── prediction.ipynb
-├── requirements.txt
+├── Resnet.ipynb |
+├── prediction.ipynb |
+├── requirements.txt |
 └── dataset/
     ├── train/
     │   ├── category1/
