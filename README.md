@@ -43,15 +43,12 @@ File Structure <br>
     │   └── category5/<br>
     
 Built With
-Keras - The deep learning framework used
-Imagenet - Pre-trained models used
+Keras - The deep learning framework used <br>
+Imagenet - Pre-trained models used <br>
 
 Authors
-[Your Name] - Your Github Profile
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+[Shubham Songire] - [Your Github Profile](https://github.com/ShubhamSongire) <br>
 
 Acknowledgments
-Imagenet for providing the pre-trained models used in this project
+Imagenet for providing the pre-trained models used in this project<br>
 Dataset for providing the dataset used in this project
