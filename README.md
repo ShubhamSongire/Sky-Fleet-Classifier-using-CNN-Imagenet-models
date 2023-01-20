@@ -11,7 +11,7 @@ Output of program <br><br>
 ![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png) <br>
 <div align="center">
     <a href="./">
-        <img src="[./figure/horses_prediction.jpg](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png)" width="59%"/>
+        <img src="https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png" width="59%"/>
     </a>
 </div>
 ## Getting Started 
