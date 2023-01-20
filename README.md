@@ -1,4 +1,5 @@
 # Drone-Image-Classification-using-CNN-Imagenet-models-
+This project is a deep learning image classification model that utilizes Imagenet's pre-trained models to classify a dataset of images. The dataset used in this project can be found at the following link: <a href="https://drive.google.com/drive/folders/1zglFJPmfcbVIsIg4SwchuR2fLWCZvqjP?usp=sharing"> Link </a>
 This is deep learning image classification model. I have classified dataset using imagent's different classification models. I have taken the imagenet models and finetuned them to fit my dataset. changed first layer accordingly our dataset and given proper parameters to train deep learning neural network model. <br>
 link of dataset for this project is https://drive.google.com/drive/folders/1zglFJPmfcbVIsIg4SwchuR2fLWCZvqjP?usp=sharing <br> 
 Sample images of this dataset <br>
