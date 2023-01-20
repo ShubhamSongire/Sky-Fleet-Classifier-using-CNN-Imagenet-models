@@ -18,6 +18,7 @@ Output of program <br><br>
         <img src="https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png" width="59%"/>
     </a>
 </div> <br>
+
 ## Getting Started 
 
 1. Clone the repository <br>
