@@ -61,5 +61,5 @@ Imagenet - Pre-trained models used <br>
 ## Authors - [ShubhamSongire](https://github.com/ShubhamSongire) <br>
 
 ## Acknowledgments
-Imagenet for providing the pre-trained models used in this project<br>
-Dataset for providing the dataset used in this project
+<a href="https://www.image-net.org/"> Imagenet </a>for providing the pre-trained models used in this project<br>
+<a href="https://drive.google.com/drive/folders/1zglFJPmfcbVIsIg4SwchuR2fLWCZvqjP?usp=sharing"> Dataset </a>for providing the dataset used in this project
