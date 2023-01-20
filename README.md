@@ -46,8 +46,7 @@ Built With
 Keras - The deep learning framework used <br>
 Imagenet - Pre-trained models used <br>
 
-Authors
-[Shubham Songire] - [ShubhamSongire](https://github.com/ShubhamSongire) <br>
+Authors - [ShubhamSongire](https://github.com/ShubhamSongire) <br>
 
 Acknowledgments
 Imagenet for providing the pre-trained models used in this project<br>
