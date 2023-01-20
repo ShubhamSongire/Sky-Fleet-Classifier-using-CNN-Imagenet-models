@@ -25,7 +25,6 @@ pip install -r requirements.txt
 4. Run the prediction.ipynb file to predict images using the trained model
 
 File Structure <br>
-.
 ├── Resnet.ipynb  <br>
 ├── prediction.ipynb <br>
 ├── requirements.txt <br>
