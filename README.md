@@ -1,4 +1,4 @@
-# Drone-Image-Classification-using-CNN-Imagenet-models-
+# Sky-Fleet-classifier-using-CNN-Imagenet-models-
 This project is a deep learning image classification model that utilizes Imagenet's pre-trained models to classify a dataset of images. The dataset used in this project can be found at this <a href="https://drive.google.com/drive/folders/1zglFJPmfcbVIsIg4SwchuR2fLWCZvqjP?usp=sharing"> Link. </a> <br>
 Sample images of this dataset <br><br>
 <div align="center">
