@@ -24,24 +24,24 @@ pip install -r requirements.txt
 
 4. Run the prediction.ipynb file to predict images using the trained model
 
-File Structure
+File Structure <br>
 .
 ├── Resnet.ipynb  <br>
 ├── prediction.ipynb <br>
 ├── requirements.txt <br>
 └── dataset/ <br>
     ├── train/ <br>
-    │   ├── category1/
-    │   ├── category2/
-    │   ├── category3/
-    │   ├── category4/
-    │   └── category5/
-    ├── validation/
-    │   ├── category1/
-    │   ├── category2/
-    │   ├── category3/
-    │   ├── category4/
-    │   └── category5/
+    │   ├── category1/ <br>
+    │   ├── category2/<br>
+    │   ├── category3/<br>
+    │   ├── category4/<br>
+    │   └── category5/<br>
+    ├── validation/<br>
+    │   ├── category1/<br>
+    │   ├── category2/<br>
+    │   ├── category3/<br>
+    │   ├── category4/<br>
+    │   └── category5/<br>
     
 Built With
 Keras - The deep learning framework used
