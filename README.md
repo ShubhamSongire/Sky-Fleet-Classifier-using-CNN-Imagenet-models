@@ -9,7 +9,11 @@ In the Resnet.ipynb file, you will find the complete training code for the model
 Please note that the dataset used in this project is provided for demonstration purposes only and is not intended for commercial use.<br>
 Output of program <br><br>
 ![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png) <br>
-
+<div align="center">
+    <a href="./">
+        <img src="[./figure/horses_prediction.jpg](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png)" width="59%"/>
+    </a>
+</div>
 ## Getting Started 
 
 1. Clone the repository <br>
