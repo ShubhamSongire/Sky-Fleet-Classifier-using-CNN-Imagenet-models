@@ -6,11 +6,16 @@ The dataset contains 5 different categories of images, and the model has been fi
 
 In the Resnet.ipynb file, you will find the complete training code for the model. Once the model has been trained, you can use the prediction.ipynb file to predict images using the saved pretrained model. The output of the program will be the predicted category for each image.
 
-Please note that the dataset used in this project is provided for demonstration purposes only and is not intended for commercial use.
+Please note that the dataset used in this project is provided for demonstration purposes only and is not intended for commercial use.<br>
 Output of program <br><br>
-![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png)
-Getting Started
+![Picture12](https://user-images.githubusercontent.com/68246393/157185712-a8b89f4d-2936-4210-843a-c455b753e76a.png) <br>
+Getting Started 
 1. Clone the repository
-git clone https://github.com/[username]/image-classification-imagenet.git
+git clone https://github.com/ShubhamSongire/Drone-Image-Classification-using-CNN-Imagenet-models-
 
-2. 
+2. Install the required dependencies
+pip install -r requirements.txt
+
+3. Run the Resnet.ipynb file to train the model
+
+4. Run the prediction.ipynb file to predict images using the trained model
