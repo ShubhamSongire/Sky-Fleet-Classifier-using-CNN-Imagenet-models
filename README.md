@@ -23,7 +23,7 @@ Output of program <br><br>
 
 1. Clone the repository <br>
 ``` shell
-git clone https://github.com/ShubhamSongire/Drone-Image-Classification-using-CNN-Imagenet-models-
+git clone https://github.com/ShubhamSongire/Sky-Fleet-Classifier-using-CNN-Imagenet-models
 ```
 
 2. Install the required dependencies
